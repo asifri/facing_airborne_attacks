@@ -12,7 +12,7 @@ After that, you can execute the entire notebook by clicking "Run all" in the "Ru
 
 Configurable hyperparameters from the paper are present in the "Constants" section (number 0.3).
 
-Execution of full experiment, including all data preprocessing and model training, will take approximately 1 hour on the cloud environment.
+Execution of full experiment, including all data preprocessing and model training, will take approximately 1 hour in the cloud environment.
 
 
 
