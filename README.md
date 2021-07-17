@@ -1,7 +1,7 @@
 # Facing Airborne Attacks on ADS-B Data with Autoencoders
 
 
-This repository contains a Jupyter notebook to reproduces the experiment in the paper "Facing Airborne Attacks on ADS-B Data with Autoencoders".
+This repository contains a Jupyter notebook to reproduces the experiment in the paper ["Facing Airborne Attacks on ADS-B Data with Autoencoders"](https://doi.org/10.1016/j.cose.2021.102405).
 A link to a Google Colab notebook is present at the top of the file.
 You can clone the Colab notebook and execute it in a cloud environment.
 
